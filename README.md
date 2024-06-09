@@ -53,7 +53,7 @@ version control systems (vsc) are tools that help manage changes to source code 
     2. the enable in tracking changes and the person who made them for accountability
     3. Reverting changes this is undoing a mistake when a bug occurs developers can revert to previous stable version.
     4. Backup and recovery incase of local machine failure the code can be retrieved since it is safely store.
-    5. Code integrit by ensuring the codebase remains consistent and functional through out various changes.
+    5. Code integrit by ensuring the codebase remains conssistent and functional through out various changes.
 
     Examples of version control and their features
     1. Git it is a distributed vcs and has the following features; branching and merging, staging area.
@@ -67,58 +67,58 @@ A software project manager is responsible for planning, executing, and overseein
 
 key responsibilities
 
-- Discussing potential projects and their parameters with clients, executives, and software developers.
-- Planning out the blueprints for software projects, including defining the scope, allocating resources, setting deadlines, laying out communication strategies, and indicating tests and maintenance.
-- Assembling and leading the project team.
-- Participating in and supervising each stage of the project.
-- Ensuring each project stays on schedule and adheres to the deadlines.
-- Creating a project budget and ensuring the project adheres to the budget as closely as possible.
-- Determining and overseeing consistent testing, evaluation, and troubleshooting of all products in all stages of completion.
-- Tracking milestones, deliverables, and change requests.
-- Serving as a liaison to communicate information regarding changes, milestones reached, and other pertinent information.
-- Delivering completed software products to clients and performing regular checks on the products' performance.
+    - Discussing potential projects and their parameters with clients, executives, and software developers.
+    - Planning out the blueprints for software projects, including defining the scope, allocating resources, setting deadlines, laying out communication strategies, and indicating tests and maintenance.
+    - Assembling and leading the project team.
+    - Participating in and supervising each stage of the project.
+    - Ensuring each project stays on schedule and adheres to the deadlines.
+    - Creating a project budget and ensuring the project adheres to the budget as closely as possible.
+    - Determining and overseeing consistent testing, evaluation, and troubleshooting of all products in all stages of completion.
+    - Tracking milestones, deliverables, and change requests.
+    - Serving as a liaison to communicate information regarding changes, milestones reached, and other pertinent information.
+    - Delivering completed software products to clients and performing regular checks on the products' performance.
 
-key challenges
+    key challenges
 
-- Resource loss
-- Scheduling difficulty
-- Data protection concerns
-- Interpersonal conflicts between Developers/Engineers/Stakeholders
-- High competition levels owing to globalization
+    - Resource loss
+    - Scheduling difficulty
+    - Data protection concerns
+    - Interpersonal conflicts between Developers/Engineers/Stakeholders
+    - High competition levels owing to globalization
 
 Software Maintenance:
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 Software maintenance refers to the process of modifying and updating software to correct defects, improve performance, adapt to changes in the environment, and meet new requirements over time.
 
-Types of maintenance
+    Types of maintenance
 
-1. Corrective Maintenance - for addressing and fixing defects or issues discovered in the software during its operational use.
-2. Adaptive Maintenance - for modifying the software to accommodate changes in the external environment, such as operating system upgrades or hardware changes.
-3. Perfective Maintenance - for improving software performance, maintainability, or adding new features to enhance functionality.
-4. Preventive Maintenance - to proactively identifying and fixing potential issues before they become significant problems.
+    1. Corrective Maintenance - for addressing and fixing defects or issues discovered in the software during its operational use.
+    2. Adaptive Maintenance - for modifying the software to accommodate changes in the external environment, such as operating system upgrades or hardware changes.
+    3. Perfective Maintenance - for improving software performance, maintainability, or adding new features to enhance functionality.
+    4. Preventive Maintenance - to proactively identifying and fixing potential issues before they become significant problems.
 
-Why maintenance is essential
+    Why maintenance is essential
 
-- Software maintenance addresses defects, bugs, and issues that arise during development or after deployment. It ensures that the software operates reliably and meets user expectations.
-- Over time, user needs and business requirements evolve. Maintenance allows software to be adapted to these changes, ensuring continued relevance and usability.
-- Maintenance activities include performance tuning and optimization, which improve the efficiency and responsiveness of the software. This enhances user experience and operational efficiency.
-- With the constant evolution of cybersecurity threats, maintenance includes applying security patches and updates to protect the software from vulnerabilities and attacks
+    - Software maintenance addresses defects, bugs, and issues that arise during development or after deployment. It ensures that the software operates reliably and meets user expectations.
+    - Over time, user needs and business requirements evolve. Maintenance allows software to be adapted to these changes, ensuring continued relevance and usability.
+    - Maintenance activities include performance tuning and optimization, which improve the efficiency and responsiveness of the software. This enhances user experience and operational efficiency.
+    - With the constant evolution of cybersecurity threats, maintenance includes applying security patches and updates to protect the software from vulnerabilities and attacks
 
 Ethical Considerations in Software Engineering:
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
-- Privacy
-- Security Vulnerabilities
-- Bias in Algorithms and AI
-- Intellectual Property Rights
-- Transparency and Accountability
-  How to adhere to ethical issues
-- Education and Awareness
-- Ethical Decision-Making Frameworks
-- Collaboration and Consultation
-- Integrity and Accountability
-- User-Centered Design
-- Continuous Evaluation and Improvement
+    - Privacy
+    - Security Vulnerabilities
+    - Bias in Algorithms and AI
+    - Intellectual Property Rights
+    - Transparency and Accountability
+    How to adhere to ethical issues
+    - Education and Awareness
+    - Ethical Decision-Making Frameworks
+    - Collaboration and Consultation
+    - Integrity and Accountability
+    - User-Centered Design
+    - Continuous Evaluation and Improvement
 
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
